@@ -1,0 +1,2 @@
+class InvalidPinError(ValueError):
+    pass
